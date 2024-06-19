@@ -1,0 +1,11 @@
+{
+  "manifest_version": 3,
+  "name": "Color Picker",
+  "description": "Color picker Extension is use to pick up various color from any webpage",
+  "version": "1.0",
+  "author" : "Saim Hossain",
+  "action": {
+    "default_popup": "index.html",
+    "default_icon": "icon.jfif"
+  }
+}
